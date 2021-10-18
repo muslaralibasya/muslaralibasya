@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muslaralibasya
+- 👋 Hi, I’m Muslar Alibasya
 - 👀 I’m interested in Data Processing
 - 🌱 I’m a fresh graduate of the Department of Mathematics, University of Indonesia
 
